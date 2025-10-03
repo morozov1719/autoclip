@@ -6,3 +6,4 @@ dist/
 .env
 *.tmp
 .cache/
+tmp/
